@@ -1,4 +1,3 @@
-import { ledger } from "../../init.js.js";
 import { Staged } from "../syntax/Staged.js";
 
 class Funding extends Staged {

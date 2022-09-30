@@ -54,7 +54,7 @@ class Staged {
         return done(this, this.done) || this;
     };
 
-    // --------- Control Pattern --------- //
+    // --------- Flow Control Pattern --------- //
 
     /** @protected */
     static init() {};

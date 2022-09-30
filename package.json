@@ -1,1 +1,1 @@
-{ "type": "module" }
+{"type":"module","dependencies":{"nanoid":"^4.0.0"}}

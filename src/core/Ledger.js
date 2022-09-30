@@ -2,7 +2,6 @@ import { Person } from "../classes/Person.js";
 import { Store } from "../classes/Store.js";
 import { ProfitReceipt, StoreReceipt } from '../classes/others/Receipt.js';
 import { Profit } from "../classes/Profit.js";
-import { Profile } from "../classes/others/Profile.js";
 import { Transaction } from "../classes/others/Transaction.js";
 import { Funding } from "../classes/others/Funding.js";
 
@@ -155,32 +154,5 @@ class Ledger {
         }
     };
 };
-
-ledger.
-treasures().
-    name().
-    profits().
-        info('Enzo').
-
-    build()
-    physical().
-        money().
-            weight(5).
-            value(105)
-        .build().
-        .money().
-            weight(20).
-
-    build().
-build();
-
-
-/*
-
-*/
-
-
-
-
 
 export { Ledger }
